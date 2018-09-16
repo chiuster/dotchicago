@@ -1,0 +1,2 @@
+# dotchicago
+.chicago domain names
