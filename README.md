@@ -1,2 +1,1 @@
-# dotchicago
-.chicago domain names
+# btc-domains
