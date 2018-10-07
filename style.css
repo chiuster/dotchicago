@@ -32,6 +32,10 @@ body {
   margin: 0;
 }
 
+.navbar-brand {
+  color: #FFF:
+}
+
 .navbar-brand img {
   height: 60px;
 }
