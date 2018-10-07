@@ -63,9 +63,6 @@ body {
   color: #FFF;
   padding-top: 0;
   text-align: center;
-
-  min-height: 100vh;
-  padding-bottom: 150px; /* To give some space on mobile */
   margin-bottom: 0;
 }
 
